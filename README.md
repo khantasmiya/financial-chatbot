@@ -1,5 +1,4 @@
 # financial-chatbot
-A Python chatbot that answers predefined financial queries using pandas.
 # 🤖 Financial Chatbot
 
 A simple chatbot that answers predefined financial queries using Python and pandas.
